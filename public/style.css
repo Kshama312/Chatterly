@@ -15,7 +15,7 @@ body {
   align-items: center; */
   display: grid;
   place-items: center;
-  background-color: #ebebeb;
+  background-color: rgb(199, 199, 194);
 }
 
 .title {
@@ -38,13 +38,13 @@ body {
 }
 
 .name > span {
-  color: #bbb;
+  color: #513b3b;
 }
 
 .name-input {
   font-size: 24px;
   font-weight: 700;
-  color: #7e7e7e;
+  color: rgb(36, 35, 35);
   flex-grow: 1;
   border: none;
   margin: 0px 12px;
